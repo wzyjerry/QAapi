@@ -1,0 +1,14 @@
+glove/__init__.py,sha256=dFl7lgEwPxpDZVSeiS5rpcmg6ohHqLNONiN1jROyUhY,52
+glove/corpus.py,sha256=1jGqH59Tv5bOB5BqegC2205FJmDbaSbsRIoDPDpwqIY,2667
+glove/corpus_cython.cpython-36m-x86_64-linux-gnu.so,sha256=t31NWWV3n5Cqfmx22jNkmhnmAGjKYGQ2egy5RJP1FIM,987104
+glove/glove.py,sha256=g8HvVwgCrtTed9SjMbafO9el8DI1r_nOMjobuimO1Go,10373
+glove/glove_cython.cpython-36m-x86_64-linux-gnu.so,sha256=pj1XqTqs63eUUgPkCOqH0sqEQdgLW1gcrIG-5JsxZb0,751632
+glove/metrics/accuracy_cython.cpython-36m-x86_64-linux-gnu.so,sha256=zIAE_WHhdVFxn4AWvLgim4l7ZdRpdCE8bIGHTdQ0qXc,728168
+glove_python-0.1.0.dist-info/METADATA,sha256=BqgpCqBHu7ZIAuZN1xMqiNSK5ykCa2N2HIgZl4duYFk,573
+glove_python-0.1.0.dist-info/RECORD,,
+glove_python-0.1.0.dist-info/WHEEL,sha256=CTh2E6mCxEx9ZlqUOZVJtYBKxTlr7zOwLtikkFWqEZU,104
+glove_python-0.1.0.dist-info/top_level.txt,sha256=37L8VMs0xTR_J8HWIhfuhkwv_VGa5IBT10kXH7mdxjs,6
+glove_python-0.1.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+glove/__pycache__/corpus.cpython-36.pyc,,
+glove/__pycache__/glove.cpython-36.pyc,,
+glove/__pycache__/__init__.cpython-36.pyc,,
