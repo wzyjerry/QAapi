@@ -22,11 +22,10 @@ tag = {
 @app.route('/query/<text>')
 def query(text):
     st = time.time()
-    ret = tag[classify(text)]
-    result = json.dumps(ner(text), ensure_ascii=False)
-    ed = time.time()
+    ret = ner(text)
+    ret['intent': tag[classify(text)]]
     print('Parse time:', ed - st)
-    return '%s<hr>%s<hr>' % (ret, result)
+    return json.dumps(ret, ensure_ascii=False)
 
 
 if __name__ == '__main__':
